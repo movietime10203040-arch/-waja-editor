@@ -1,0 +1,17 @@
+{
+  "name": "Waja Editor \u2014 AI Prompt Gallery",
+  "short_name": "Waja Editor",
+  "description": "Discover and copy AI image prompts.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0c12",
+  "theme_color": "#0c0c12",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
